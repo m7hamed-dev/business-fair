@@ -3,6 +3,7 @@
 # Mowad Baitek ( مواد بيتك )
   on play store :
   ## https://apps.apple.com/us/app/مواد-بيتك/id1591454957
+  on google play store :
   ## https://play.google.com/store/apps/details?id=com.mowad_baitk_app
   
 ## section user , customer
